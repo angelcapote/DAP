@@ -1,0 +1,68 @@
+[
+  {
+    "Place": "Europa",
+    "Accidents": "2000",
+    "Date": "2010",
+    "Crimes" : "450"
+  },
+  {
+    "Place": "Europa",
+    "Accidents": "2300",
+    "Date": "2011",
+    "Crimes" : "340"
+  },
+  {
+    "Place": "Europa",
+    "Accidents": "2150",
+    "Date": "2012",
+    "Crimes" : "600"
+  },
+  {
+    "Place": "Europa",
+    "Accidents": "1900",
+    "Date": "2013",
+    "Crimes" : "530"
+  },
+  {
+    "Place": "Europa",
+    "Accidents": "1985",
+    "Date": "2014",
+    "Crimes" : "350"
+  },
+  {
+    "Place": "Europa",
+    "Accidents": "1800",
+    "Date": "2015",
+    "Crimes" : "460"
+  },
+  {
+    "Place": "Europa",
+    "Accidents": "1900",
+    "Date": "2016",
+    "Crimes" : "260"
+  },
+  {
+    "Place": "Europa",
+    "Accidents": "1700",
+    "Date": "2017",
+    "Crimes" : "280"
+  },
+  {
+    "Place": "Europa",
+    "Accidents": "1750",
+    "Date": "2018",
+    "Crimes" : "290"
+  },
+  {
+    "Place": "Europa",
+    "Accidents": "1500",
+    "Date": "2019",
+    "Crimes" : "320"
+  },
+  {
+    "Place": "Europa",
+    "Accidents": "11450",
+    "Date": "2020",
+    "Crimes" : "380"
+  }
+]
